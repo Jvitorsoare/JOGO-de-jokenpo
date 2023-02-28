@@ -1,3 +1,3 @@
 # JOGO-de-jokenpo
-jogo de jokenpo em phyton
+jogo de jokenpo em phyton,
 segundo semestre
