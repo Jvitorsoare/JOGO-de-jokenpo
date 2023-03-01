@@ -1,5 +1,6 @@
 # JOGO-de-jokenpo
-jogo de jokenpo 
+jogo de jokenpo
+
 criado no primeiro semestre
 
 Um jogo de Jokenpô (também conhecido como pedra-papel-tesoura) contra o computador é um jogo em que o jogador e o computador escolhem entre três opções: pedra, papel ou tesoura.
